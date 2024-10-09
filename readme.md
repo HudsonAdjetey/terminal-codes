@@ -13,9 +13,12 @@ Each project has its own dedicated folder. The folder name corresponds to the pr
 Here is a list of the beginner-level projects included in this repository:
 
 1. **Task Tracker**
+2. **Github Activity**
 
 
-You can find the complete list of beginner projects [https://roadmap.sh/backend/projects](https://roadmap.sh/projects/task-tracker).
+1. **You can find the complete list of beginner projects [https://roadmap.sh/backend/projects](https://roadmap.sh/projects/task-tracker).**2
+2. **The complete project code for the github project [GitHub User Activity Project](https://roadmap.sh/projects/github-user-activity).**
+3. **Expense tracker [Expense Tracker](https://roadmap.sh/projects/expense-tracker)**
 
 ## Project Structure
 
