@@ -1,5 +1,3 @@
-Here’s an updated `README.md` file that includes the instructions and the project page URL for submission:
-
 ````markdown
 # GitHub User Activity CLI
 
