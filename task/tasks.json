@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "description": "Complete homework 2",
+    "status": "todo",
+    "createdAt": "2024-10-08T22:28:24.523Z",
+    "updatedAt": "2024-10-08T22:28:24.523Z"
+  },
+  {
+    "id": 3,
+    "description": "Homework to serve",
+    "status": "todo",
+    "createdAt": "2024-10-08T22:36:12.324Z",
+    "updatedAt": "2024-10-08T22:36:12.324Z"
+  }
+]
